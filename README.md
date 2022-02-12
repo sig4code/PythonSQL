@@ -1,4 +1,4 @@
-# Mairadb connector with pyton
+# Mairadb connector with python
 
 Imports needed:
 
