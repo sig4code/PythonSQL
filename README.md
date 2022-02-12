@@ -1,5 +1,7 @@
 # Mairadb connector with python
 
+How to connect to a mariadb or mysql database
+
 Imports needed:
 
 ```python 
